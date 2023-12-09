@@ -1,9 +1,6 @@
 
 ![](https://i.ibb.co/s3r4BHC/Black-and-Red-Gradient-Professional-Linked-In-Banner.jpg)
 
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
 - 🔭 I’m currently working on this page. 
 
 
