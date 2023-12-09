@@ -5,6 +5,20 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1002&color=4174C3&background=74B12100&random=false&width=470&lines=Font-End+Developer;Always+Learning+New+Things++++" alt="Typing SVG" /></a>
 </p>
 
+# About Me
+<br>
+
+### Hello, I'm Monir Hossain 👋
+
+<p> 
+My vision is to create seamless and visually appealing user experiences on the web. I specialize in crafting the user interface and ensuring that it is not only aesthetically pleasing but also highly functional and intuitive. I aim to bridge the gap between design and technology, translating static design mockups into interactive and dynamic web applications.
+ </p>
+
+
+
+ </br>
+
+
 ## :computer: Technologies that I know
 
 <br>
