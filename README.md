@@ -39,12 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## Connect with me
 <p align="center">
-	<a href="mailto:fayhadahmedmonir@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="40" /></a>
-	<a href="https://github.com/hrshainik"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" height="40"  alt="GitHub"/></a>
-	<a href="https://github.com/hrshainik"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=plastic&logo=write.as&logoColor=white" alt="Portfolio" height="40" /></a>
-	<a href="https://wa.me/+8801766215104"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" height="40"  /></a>
-	<a href="https://www.linkedin.com/in/hrshainik/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" /></a>
-	<a href="https://www.facebook.com/hrshainik/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" height="40" /></a>
-	<a href="https://www.instagram.com/traveloperhabib/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white&logoSize=15" alt="Instagram" height="30" style="font-size:16px;" /></a>
+	[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/saidul.khan2000) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidul-m-khan/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saidul.mursalin.khan) 
+
 </p>
 
