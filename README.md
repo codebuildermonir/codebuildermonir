@@ -1,5 +1,5 @@
 
-![](https://i.ibb.co/BVdkDWB/Margarita-Perez.jpg)
+![](https://i.ibb.co/s3r4BHC/Black-and-Red-Gradient-Professional-Linked-In-Banner.jpg)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
