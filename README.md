@@ -48,12 +48,12 @@
 #### 💬 Ask me about MERN stack development, React.js best practices, or optimizing backend performance in Node.js applications!
 
 
-# My GitHub Activity Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=aura)
+# My GitHub Profile summary 
 
-<a href="https://git.io/streak-stats" style="display:block; width:100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebuildermonir&theme=highcontrast" alt="GitHub Streak" style="width:100%;" />
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=algolia" target="_blank">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=algolia" alt="GitHub Profile Summary" style="width: 100%;" />
 </a>
+
 
 
 
