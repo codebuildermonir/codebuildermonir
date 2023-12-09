@@ -1,8 +1,9 @@
 
 ![](https://i.ibb.co/s3r4BHC/Black-and-Red-Gradient-Professional-Linked-In-Banner.jpg)
-<hr>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1002&color=4174C3&background=74B12100&random=false&width=470&lines=Font-End+Developer;Always+Learning+New+Things++++" alt="Typing SVG" /></a>
-<hr>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1002&color=4174C3&background=74B12100&random=false&width=470&lines=Font-End+Developer;Always+Learning+New+Things++++" alt="Typing SVG" /></a>
+</p>
 
 Here are some ideas to get you started:
 
