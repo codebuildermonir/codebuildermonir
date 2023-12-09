@@ -14,7 +14,7 @@
  ## :mailbox: Reach me out
 <br />
 
-[<p align=""><img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/linkedin%20(1).png">](https://www.linkedin.com/in/codebuildermoni/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/instagram.png">](https://www.instagram.com/codebuildermonir/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/facebook%20(1).png">](https://www.facebook.com/fayhadahmed.monir/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/twitter%20(1).png"> </p>](https://twitter.com/)
+[<p align=""><img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/linkedin(1).png">](https://www.linkedin.com/in/codebuildermoni/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/instagram.png">](https://www.instagram.com/codebuildermonir/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/facebook%20(1).png">](https://www.facebook.com/fayhadahmed.monir/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/twitter%20(1).png"> </p>](https://twitter.com/)
 <br />
 
 
@@ -39,18 +39,12 @@
 
 <br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: ...
+## :eyes: Current overview
+- 🌱 I’m currently learning advanced React.js techniques and exploring serverless  computing and Docker for enhanced deployment strategies.
+- 🔭 I’m currently working on enhancing user experiences and scalability.
+- 👯 I’m looking - To collaborate on open source projects.
+- 🤔 I’m looking for help with implementing GraphQL in my MERN project for efficient data fetching and manipulation.
+- 💬 Ask me about MERN stack development, React.js best practices, or optimizing backend performance in Node.js applications!
 
 
 
