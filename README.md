@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## Connect with me
 <p align="center">
-	<a href="mailto:fayhadahmedmonir@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="75" /></a>
-	<a href="https://github.com/hrshainik"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://github.com/hrshainik"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=plastic&logo=write.as&logoColor=white" alt="Portfolio"/></a>
-	<a href="https://wa.me/+8801766215104"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/hrshainik/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/hrshainik/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/traveloperhabib/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="mailto:fayhadahmedmonir@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="50" /></a>
+	<a href="https://github.com/hrshainik"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" height="50"  alt="GitHub"/></a>
+	<a href="https://github.com/hrshainik"><img src="https://img.shields.io/badge/Portfolio-%23181717.svg?style=plastic&logo=write.as&logoColor=white" alt="Portfolio" height="50" /></a>
+	<a href="https://wa.me/+8801766215104"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" height="50"  /></a>
+	<a href="https://www.linkedin.com/in/hrshainik/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" /></a>
+	<a href="https://www.facebook.com/hrshainik/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook" height="50" /></a>
+	<a href="https://www.instagram.com/traveloperhabib/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" height="50" /></a>
 </p>
 
