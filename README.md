@@ -9,9 +9,16 @@
 # About Me
 ### Hello, I'm Monir Hossain👋
 #### I'm more than just a MERN stack developer; I'm a tech enthusiast, problem solver, and continuous learner on a mission to elevate web development experiences.
- #### 🚀**Vision:** My vision is to create seamless and visually appealing user experiences on the web. I specialize in crafting the user interface and ensuring that it is not only aesthetically pleasing but also highly functional and intuitive. I aim to bridge the gap between design and technology, translating static design mockups into interactive and dynamic web applications.
-#### 💡**Focus:**My focus is on responsive and mobile-first design, ensuring that websites are accessible and user-friendly across various devices and screen sizes. I strive to stay updated on the latest trends and technologies in frontend development, incorporating modern frameworks and tools to enhance performance and deliver a cutting-edge user experience.
+ #### 🚀My vision is to create seamless and visually appealing user experiences on the web. I specialize in crafting the user interface and ensuring that it is not only aesthetically pleasing but also highly functional and intuitive. I aim to bridge the gap between design and technology, translating static design mockups into interactive and dynamic web applications.
+#### 💡My focus is on responsive and mobile-first design, ensuring that websites are accessible and user-friendly across various devices and screen sizes. I strive to stay updated on the latest trends and technologies in frontend development, incorporating modern frameworks and tools to enhance performance and deliver a cutting-edge user experience.
  </br>
+
+ ## :mailbox: Reach me out
+<br />
+
+[<p align="center"><img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/linkedin%20(1).png">](https://www.linkedin.com/in/codebuildermoni/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/instagram.png">](https://www.instagram.com/codebuildermonir/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/facebook%20(1).png">](https://www.facebook.com/fayhadahmed.monir/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/twitter%20(1).png"> </p>](https://twitter.com/)
+<br />
+
 
 
 ## :computer: Technologies that I know
@@ -47,13 +54,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: ...
 
-## :mailbox: Reach me out
-
-<br />
-
-[<p align="center"><img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/linkedin%20(1).png">](https://www.linkedin.com/in/codebuildermoni/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/instagram.png">](https://www.instagram.com/codebuildermonir/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/facebook%20(1).png">](https://www.facebook.com/fayhadahmed.monir/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/twitter%20(1).png"> </p>](https://twitter.com/)
-
-<br />
 
 
 
