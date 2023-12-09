@@ -1,20 +1,6 @@
 
 ![](https://i.ibb.co/s3r4BHC/Black-and-Red-Gradient-Professional-Linked-In-Banner.jpg)
 
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
