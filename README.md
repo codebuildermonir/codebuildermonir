@@ -42,11 +42,14 @@
 ## :eyes: Current overview
 
 #### 🌱 I’m currently learning advanced React.js techniques and exploring serverless  computing and Docker for enhanced deployment strategies.
-####  🔭 I’m currently working on enhancing user experiences and scalability.
+#### 🔭 I’m currently working on enhancing user experiences and scalability.
 #### 👯 I’m looking - To collaborate on open source projects.
 #### 🤔 I’m looking for help with implementing GraphQL in my MERN project for efficient data fetching and manipulation.
 #### 💬 Ask me about MERN stack development, React.js best practices, or optimizing backend performance in Node.js applications!
 
+
+# My GitHub Activity Stats
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codebuildermonir&theme=highcontrast" alt="GitHub Streak" /></a>
 
 
 
