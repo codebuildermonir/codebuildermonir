@@ -37,14 +37,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: ...
-## Connect with me
+## :contact: Connect with me
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/linkedin%20(1).png">](https://www.linkedin.com/in/codebuildermoni/)[<img height="75" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/twitter%20(1).png">](https://twitter.com/)
-
-[<img height="75" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/instagram.png"> </p>](https://www.instagram.com/codebuildermonir/)
-
-[<img height="75" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/facebook%20(1).png"> </p>](https://www.facebook.com/fayhadahmed.monir/)
+[<p align="center"><img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/linkedin%20(1).png">](https://www.linkedin.com/in/codebuildermoni/)[<img height="60"src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/twitter%20(1).png">](https://twitter.com/)[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/instagram.png"></p>](https://www.instagram.com/codebuildermonir/)
+[<img height="60" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/facebook%20(1).png"></p>](https://www.facebook.com/fayhadahmed.monir/)
 
 <br />
 
