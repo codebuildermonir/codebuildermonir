@@ -40,7 +40,11 @@ Here are some ideas to get you started:
 ## Connect with me
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+[<p align="center"><img height="75" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/linkedin%20(1).png">](https://www.linkedin.com/in/codebuildermoni/)[<img height="75" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/twitter%20(1).png">](https://twitter.com/)
+
+[<img height="75" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/instagram.png"> </p>](https://www.instagram.com/codebuildermonir/)
+
+[<img height="75" src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/social/facebook%20(1).png"> </p>](https://www.facebook.com/fayhadahmed.monir/)
 
 <br />
 
