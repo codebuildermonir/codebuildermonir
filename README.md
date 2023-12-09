@@ -54,6 +54,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=algolia" alt="GitHub Profile Summary" style="width: 100%;" />
 </a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebuildermonir&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebuildermonir&theme=algolia)
 
 
 
