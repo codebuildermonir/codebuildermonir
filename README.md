@@ -12,20 +12,18 @@
 <img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/HTML.png"/>
 <img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/css.png"/>
 
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/sass.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-</p><br/>
+<img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/tailwind.png"/>
+
+<img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/javaScript.png"/>
+
+<img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/react.png"/>
+
+<img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/node.png"/>
+<img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/express.png"/>
+
+<img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/firebase.png"/>
+
+<br/>
 
 Here are some ideas to get you started:
 
@@ -39,6 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: ...
-<img src="https://github.com/codebuildermonir/codebuildermonir/blob/main/images/JavaScript.png"/>
-
 
