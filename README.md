@@ -49,11 +49,11 @@
 
 
 # ⚡ My GitHub Profile summary 
-
+<p align="center">
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=algolia" target="_blank">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=algolia" alt="GitHub Profile Summary" style="width: 100%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=algolia" alt="GitHub Profile Summary" />
 </a>
-
+</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebuildermonir&theme=algolia" alt="Most Used Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebuildermonir&theme=algolia" alt="GitHub Stats" />
