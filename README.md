@@ -49,8 +49,11 @@
 
 
 # My GitHub Activity Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codebuildermonir&theme=highcontrast" alt="GitHub Streak" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=aura)
 
+<a href="https://git.io/streak-stats" style="display:block; width:100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebuildermonir&theme=highcontrast" alt="GitHub Streak" style="width:100%;" />
+</a>
 
 
 
