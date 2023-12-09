@@ -53,9 +53,16 @@
 <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=algolia" target="_blank">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebuildermonir&theme=algolia" alt="GitHub Profile Summary" style="width: 100%;" />
 </a>
+<p align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codebuildermonir&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codebuildermonir&theme=algolia)
+</p>
+
+<a href="https://git.io/streak-stats" style="display: block; width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codebuildermonir&theme=algolia" alt="GitHub Streak" style="width: 100%;" />
+</a>
+
 
 
 
